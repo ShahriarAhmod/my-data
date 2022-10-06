@@ -1,0 +1,57 @@
+[
+  {
+    "key": "1",
+    "name": "Northern Medical",
+    "live": "https://northern-hospital-9f381.web.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/health-care-react-website",
+    "gitServer": "https://github.com/ShahriarAhmod/health-care-react-website",
+    "description": "This is Medical website. A normal user can see all toy. He will have to login to book them. Google and normal email/pass login method has been implemented. User can see and delete his order in dashboard after signing in.  There is also an admin section which only an admin can enter. Admin has some special power like deleting booking, services , add services or make another admin. There are 6 section is the home page including Header, banner, services and footer.",
+    "img1": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img2": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img3": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg"
+  },
+  {
+    "key": "2",
+    "name": "tec-hub",
+    "live": "https://tec-hub-94bc9.web.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/headphone-website-client",
+    "gitServer": "https://github.com/ShahriarAhmod/headphone-website-server",
+    "description": "This is Headphone selling based website. A normal user can see all headphone. He will have to login to buy them. Google and normal email/pass login method has been implemented. User can see and delete his order in dashboard after signing in. He can direct mail to the admin. He can even share his experience by giving ratings. There is also an admin section which only an admin can enter. Admin has some special power like deleting order, products, add products.",
+    "img1": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img2": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img3": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg"
+  },
+  {
+    "key": "3",
+    "name": "Tour-BD",
+    "live": "https://tourism-website-2b8f0.web.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/tourism-website-client-side",
+    "gitServer": "https://github.com/ShahriarAhmod/tourism-website-server",
+    "description": "This is Touring based website. A normal user can see all toy. He will have to login to buy them. Google and normal email/pass login method has been implemented. User can see and delete his order in dashboard after signing in. He can even share his experience by giving ratings. He can also direct mail to the admin. There is a blog and hotel reservation system. There is also an admin section which only an admin can enter. Admin has some special power like deleting order, products.",
+    "img1": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img2": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img3": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg"
+  },
+  {
+    "key": "4",
+    "name": "Doctor Portal",
+    "live": "https://thriving-daifuku-54c267.netlify.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/doctor-portal-client",
+    "gitServer": "https://github.com/ShahriarAhmod/doctor-portal-server",
+    "description": "This is Doctor appointment based website. A normal user can see all toy. He will have to login to buy them. Google and normal email/pass login method has been implemented. User can see and delete his order in dashboard after signing in. He can even share his experience by giving ratings. ",
+    "img1": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img2": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img3": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg"
+  },
+  {
+    "key": "5",
+    "name": "Edu Media",
+    "live": "https://suspicious-meninsky-c9a150.netlify.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/education-react-project",
+    "gitServer": "https://github.com/ShahriarAhmod/education-react-project",
+    "description": "This is a website for teaching people how to grow grapes in his own land.We have various kinds of course here. It has 4 different routes. ",
+    "img1": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img2": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg",
+    "img3": "https://img.freepik.com/free-vector/404-error-with-landscape-concept-illustration_114360-7888.jpg"
+  }
+]
