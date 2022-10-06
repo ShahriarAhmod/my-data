@@ -53,5 +53,48 @@
     "img1": "https://i.ibb.co/XjzPKv2/404.gif",
     "img2": "https://i.ibb.co/XjzPKv2/404.gif",
     "img3": "https://i.ibb.co/XjzPKv2/404.gif"
+  },
+  {
+    "key": "6",
+    "name": "Honda Shop",
+    "live": "https://suspicious-meninsky-c9a150.netlify.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/education-react-project",
+    "gitServer": "https://github.com/ShahriarAhmod/education-react-project",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "img1": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img2": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img3": "https://i.ibb.co/XjzPKv2/404.gif"
+  },
+  {
+    "key": "7",
+    "name": "Edu Media",
+    "live": "https://suspicious-meninsky-c9a150.netlify.app/",
+    "gitClient": "https://github.com/ShahriarAhmod/education-react-project",
+    "gitServer": "https://github.com/ShahriarAhmod/education-react-project",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "img1": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img2": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img3": "https://i.ibb.co/XjzPKv2/404.gif"
+  },
+  {
+    "key": "8",
+    "name": "Edu Media",
+    "live": "https://shahriarahmod.github.io/eduford/",
+    "gitClient": "https://github.com/ShahriarAhmod/education-react-project",
+    "gitServer": "https://github.com/ShahriarAhmod/education-react-project",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "img1": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img2": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img3": "https://i.ibb.co/XjzPKv2/404.gif"
+  },
+  {
+    "key": "9",
+    "name": "Panda E-commerce",
+    "live": "https://shahriarahmod.github.io/Panda-E-Commerce-Bootstrap/",
+    "gitClient": "https://github.com/ShahriarAhmod/Panda-E-Commerce-Bootstrap",
+    "gitServer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "img1": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img2": "https://i.ibb.co/XjzPKv2/404.gif",
+    "img3": "https://i.ibb.co/XjzPKv2/404.gif"
   }
 ]
